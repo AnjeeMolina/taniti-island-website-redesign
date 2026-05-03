@@ -5,6 +5,11 @@ This project is a UI/UX redesign of the Taniti Island tourism website. The goal 
 
 ---
 
+🌐 Live Website 
+👉https://anjeemolina.github.io/taniti-island-website-redesign/
+
+---
+
 ## 🎯 Problem
 The original website had several usability issues:
 - Confusing navigation
